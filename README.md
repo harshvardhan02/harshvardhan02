@@ -11,7 +11,7 @@ Enthusiastic software engineer with 5+ years of experience participating in the 
 * 🧠  I'm learning GraphQL, Typescript, Solidity
 
 <a href="https://www.twitter.com/harshvardhan_02" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/harshvardhan_02?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/hypersudo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/harshvardhan02" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/harshvardhan02?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
